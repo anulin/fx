@@ -1,0 +1,9 @@
+c:\users\андрей\documents\visual studio 2017\Projects\ConsoleApp3\ConsoleApp3\bin\Debug\netcoreapp1.1\ConsoleApp3.deps.json
+c:\users\андрей\documents\visual studio 2017\Projects\ConsoleApp3\ConsoleApp3\bin\Debug\netcoreapp1.1\ConsoleApp3.runtimeconfig.json
+c:\users\андрей\documents\visual studio 2017\Projects\ConsoleApp3\ConsoleApp3\bin\Debug\netcoreapp1.1\ConsoleApp3.runtimeconfig.dev.json
+c:\users\андрей\documents\visual studio 2017\Projects\ConsoleApp3\ConsoleApp3\bin\Debug\netcoreapp1.1\ConsoleApp3.dll
+c:\users\андрей\documents\visual studio 2017\Projects\ConsoleApp3\ConsoleApp3\bin\Debug\netcoreapp1.1\ConsoleApp3.pdb
+c:\users\андрей\documents\visual studio 2017\Projects\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp1.1\ConsoleApp3.csprojResolveAssemblyReference.cache
+c:\users\андрей\documents\visual studio 2017\Projects\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp1.1\ConsoleApp3.AssemblyInfo.cs
+c:\users\андрей\documents\visual studio 2017\Projects\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp1.1\ConsoleApp3.dll
+c:\users\андрей\documents\visual studio 2017\Projects\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp1.1\ConsoleApp3.pdb
