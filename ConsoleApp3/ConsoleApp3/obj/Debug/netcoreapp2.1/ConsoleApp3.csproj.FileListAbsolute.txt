@@ -1,0 +1,11 @@
+C:\Users\Андрей\Documents\Visual Studio 2017\Projects\ConsoleApp3\ConsoleApp3\bin\Debug\netcoreapp2.1\ConsoleApp3.deps.json
+C:\Users\Андрей\Documents\Visual Studio 2017\Projects\ConsoleApp3\ConsoleApp3\bin\Debug\netcoreapp2.1\ConsoleApp3.runtimeconfig.json
+C:\Users\Андрей\Documents\Visual Studio 2017\Projects\ConsoleApp3\ConsoleApp3\bin\Debug\netcoreapp2.1\ConsoleApp3.runtimeconfig.dev.json
+C:\Users\Андрей\Documents\Visual Studio 2017\Projects\ConsoleApp3\ConsoleApp3\bin\Debug\netcoreapp2.1\ConsoleApp3.dll
+C:\Users\Андрей\Documents\Visual Studio 2017\Projects\ConsoleApp3\ConsoleApp3\bin\Debug\netcoreapp2.1\ConsoleApp3.pdb
+C:\Users\Андрей\Documents\Visual Studio 2017\Projects\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp2.1\ConsoleApp3.csprojAssemblyReference.cache
+C:\Users\Андрей\Documents\Visual Studio 2017\Projects\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp2.1\ConsoleApp3.csproj.CoreCompileInputs.cache
+C:\Users\Андрей\Documents\Visual Studio 2017\Projects\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp2.1\ConsoleApp3.AssemblyInfoInputs.cache
+C:\Users\Андрей\Documents\Visual Studio 2017\Projects\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp2.1\ConsoleApp3.AssemblyInfo.cs
+C:\Users\Андрей\Documents\Visual Studio 2017\Projects\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp2.1\ConsoleApp3.dll
+C:\Users\Андрей\Documents\Visual Studio 2017\Projects\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp2.1\ConsoleApp3.pdb
